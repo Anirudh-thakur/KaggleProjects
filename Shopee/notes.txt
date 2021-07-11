@@ -1,0 +1,6 @@
+https://www.kaggle.com/c/shopee-product-matching/overview
+https://learnopencv.com/face-recognition-with-arcface/
+https://www.kaggle.com/c/shopee-product-matching/discussion/237972
+https://www.kaggle.com/sumitm004/malicious-webpage-classifier-using-dnn-pytorch
+
+https://www.geektrust.in/coding-problem/backend/tame-of-thrones?refToken=9af97f3f8cd5f25c64ce39&gclid=Cj0KCQjw7pKFBhDUARIsAFUoMDY6cvSk4keKm5T5tLPgP8kFpryvJxp-oZj_89udhkasLmUiVeYW6GgaAnK3EALw_wcB

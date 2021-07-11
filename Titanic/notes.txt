@@ -1,0 +1,19 @@
+Problem :
+https://www.kaggle.com/c/titanic
+
+install virtual enviroment :
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+Add Kaggle API :
+pip install Kaggle 
+
+Get API credentials :
+https://github.com/Kaggle/kaggle-api#api-credentials
+then use :  kaggle competitions download -c titanic
+to get the data set of the competition 
+
+Install pandas , numpy and scklearn 
+
+References : 
+
+https://www.kaggle.com/alexisbcook/titanic-tutorial
